@@ -1,0 +1,10 @@
+{
+  "chartId": "sample",
+  "bpm": 140,
+  "offset": 0.0,
+  "notes": [
+    { "time": 1.0, "lane": 0, "type": "tap", "length": 0 },
+    { "time": 1.5, "lane": 4, "type": "tap", "length": 0 },
+    { "time": 2.0, "lane": 7, "type": "tap", "length": 0 }
+  ]
+}
