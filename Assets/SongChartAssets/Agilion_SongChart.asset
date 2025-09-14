@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55118efd1dd269647bea9b1c13a6b517, type: 3}
+  m_Name: Agilion_SongChart
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: fe44af2e221e6e34b97a4764579dd9d0, type: 3}
+  jsonChart: {fileID: 4900000, guid: 8f4f70fe7682c3343855b1a0251f3f16, type: 3}
+  runtimeChart:
+    offset: 0
+    bpm: 200
+    lanes: 14
+    approachRate: 2
+    chartId: 125 Agilion

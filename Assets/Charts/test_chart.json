@@ -1,24 +1,24 @@
 {
-  "songId": "test_song",
+  "songId": "Agilion",
   "songOffset": 0.0,
   "bpm": 180.0,
-  "lanes": 7,
+  "lanes": 14,
   "approachTime": 2.0,
   "notes": [
-    { "time": 1.00, "lane": 0, "type": 0, "duration": 0 },
-    { "time": 1.20, "lane": 1, "type": 0, "duration": 0 },
-    { "time": 1.40, "lane": 2, "type": 0, "duration": 0 },
-    { "time": 1.60, "lane": 3, "type": 0, "duration": 0 },
-    { "time": 1.80, "lane": 4, "type": 0, "duration": 0 },
-    { "time": 2.00, "lane": 5, "type": 0, "duration": 0 },
-    { "time": 2.20, "lane": 6, "type": 0, "duration": 0 },
+    { "time": 1.2, "lane": 4, "type": 0, "duration": 0 },
+    { "time": 1.95, "lane": 5, "type": 0, "duration": 0 },
+    { "time": 2.25, "lane": 6, "type": 0, "duration": 0 },
+    { "time": 2.4, "lane": 7, "type": 0, "duration": 0 },
+    { "time": 2.7, "lane": 8, "type": 0, "duration": 0 },
+    { "time": 3, "lane": 9, "type": 0, "duration": 0 },
+    { "time": 3.3, "lane": 10, "type": 0, "duration": 0 },
 
-    { "time": 3.00, "lane": 3, "type": 0, "duration": 0 },
-    { "time": 3.20, "lane": 2, "type": 0, "duration": 0 },
-    { "time": 3.40, "lane": 4, "type": 0, "duration": 0 },
-    { "time": 3.60, "lane": 1, "type": 0, "duration": 0 },
-    { "time": 3.80, "lane": 5, "type": 0, "duration": 0 },
-    { "time": 4.00, "lane": 0, "type": 0, "duration": 0 },
-    { "time": 4.20, "lane": 6, "type": 0, "duration": 0 }
+    { "time": 3.6, "lane": 8, "type": 0, "duration": 0 },
+    { "time": 3.9, "lane": 9, "type": 0, "duration": 0 },
+    { "time": 4.2, "lane": 7, "type": 0, "duration": 0 },
+    { "time": 4.5, "lane": 8, "type": 0, "duration": 0 },
+    { "time": 4.8, "lane": 6, "type": 0, "duration": 0 },
+    { "time": 5.1, "lane": 7, "type": 0, "duration": 0 },
+    { "time": 5.4, "lane": 5, "type": 0, "duration": 0 }
   ]
 }

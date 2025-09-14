@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   baseColor: {r: 0, g: 1, b: 1, a: 1}
   holdColor: {r: 1, g: 0.8, b: 0.2, a: 1}
-  baseScale: {x: 0.6, y: 0.2, z: 0.6}
-  material: {fileID: 0}
+  baseScale: {x: 0.85, y: 0.5, z: 0.004}
+  material: {fileID: 2100000, guid: 0e347f844d07af64fbb22bacea2c7315, type: 2}
